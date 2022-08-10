@@ -1,0 +1,11 @@
+:directories:
+  - .git
+  - .vscode
+  - node_modules
+:files:
+  - .env.example
+  - .gitignore
+  - favicon.ico
+  - package.json
+  - package-lock.json
+  - README.md
